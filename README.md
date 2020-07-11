@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 	<br>
 	<br>
 	<img src="https://github.githubassets.com/images/mona-whisper.gif" width="40" height="40">
